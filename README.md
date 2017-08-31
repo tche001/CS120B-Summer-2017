@@ -3,6 +3,9 @@ CS120B-Summer-2017
 Video Link
 https://www.youtube.com/watch?v=h71nCW1uf6Y
 
+Pin Diagram:
+http://imgur.com/a/mZDki
+
 Taylor Che
 Tche001@ucr.edu
 Custom Lab
