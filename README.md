@@ -7,9 +7,13 @@ Pin Diagram:
 http://imgur.com/a/mZDki
 
 Taylor Che
+
 Tche001@ucr.edu
+
 Custom Lab
+
 Project: JukeBox
+
 Objective:
 The goal of our project is to utilize the ATMEGA1284 to build a jukebox. The player can pause or skip
 through the stored songs loaded into the jukebox. The songs will be accessible by cycling through a list of
